@@ -33,3 +33,4 @@ ggmap(niteroi_basemap) +
   ylim(-23.00,-22.85) +
   theme_void()
 
+ggsave("mapa niteroi.png")
